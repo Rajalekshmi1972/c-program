@@ -1,2 +1,2 @@
-# program
-Data structure.c
+# C program
+
